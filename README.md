@@ -8,7 +8,7 @@
 </div>
 
 <h2>About Me</h2>
-<p align="left">I'm a freelance UI/UX Designer and currenlty doing software engineering from <a href="http://www.buitms.edu.pk/">BUITEMS</a>. Currently I'm exploring new technologies and learning Data Science & Machine Learning.</p>
+<p align="left">I'm a freelance Mobile App Developer and currently working on some international projects. I started development as a side hobby and made it my full time job. I have completed my bachelor's in Computer Sciences.</p>
 
 ## My Intrests
 - BlockChain
