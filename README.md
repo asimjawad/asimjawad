@@ -4,7 +4,7 @@
 <div align="center">
     
 [![Linkedin Badge](https://img.shields.io/badge/-asimjawad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asimjawad2723/)](https://www.linkedin.com/in/asimjawad/)
-[![Gmail Badge](https://img.shields.io/badge/-mzshaikh129@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:asimjawad2723@gmail.com&color=rgb(234,67,53))](mailto:asimjawad2723@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-asimjawad2723@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:asimjawad2723@gmail.com&color=rgb(234,67,53))](mailto:asimjawad2723@gmail.com)
 </div>
 
 <h2>About Me</h2>
