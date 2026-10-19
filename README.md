@@ -1,9 +1,5 @@
 ### Hi 👋, I'm Asim
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=asimjawad&label=Profile%20views&color=0e75b6&style=flat" alt="asimjawad" />
-</p>
-
 Product engineer in Doha, Qatar. I build things that go to production and stay
 there — consumer apps at six-figure scale, banking platforms under compliance
 review, and the services behind both.
